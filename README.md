@@ -1,0 +1,2 @@
+# PythonSession2Assignment2.1
+STRING OBJECTS AND LIST OBJECTS
